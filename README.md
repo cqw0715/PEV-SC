@@ -3,8 +3,8 @@ PEV-SC: An Ensemble Learning-Based Model for Porcine Enterovirus Identification
 
 ## Dataset
 NCBI: https://www.ncbi.nlm.nih.gov/
-UniProt: https://www.uniprot.org/
-VirusDIP: https://db.cngb.org/virusdip/
+<br>UniProt: https://www.uniprot.org/
+<br>VirusDIP: https://db.cngb.org/virusdip/
 ### Positive sample
 <br><img width="788" height="259" alt="image" src="https://github.com/user-attachments/assets/a4ab2ad0-9f7a-4bcc-8c7a-7ab6a4729689" />
 <br>
@@ -14,7 +14,7 @@ VirusDIP: https://db.cngb.org/virusdip/
 ### Dataset structure diagram
 <img width="2000" height="1529" alt="Figure3" src="https://github.com/user-attachments/assets/0698b402-25ec-4dd7-b57e-42c154ba206e" />
 
-## Architecture diagram
+## PEV-SC Architecture diagram
 <img width="1500" height="2000" alt="Figure2" src="https://github.com/user-attachments/assets/dc492ec3-faaa-4015-bccf-91afb8deb395" />
 
 ## Core Dependencies
