@@ -22,7 +22,7 @@ NCBI: https://www.ncbi.nlm.nih.gov
 <img width="1500" height="2000" alt="Figure2" src="https://github.com/user-attachments/assets/dc492ec3-faaa-4015-bccf-91afb8deb395" />
 
 
-## Core Dependencies
+## Requirements
 | Library          | Version  |
 |------------------|----------|
 | numpy            | ≥1.20.0  |
